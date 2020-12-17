@@ -1,10 +1,13 @@
 /** TO DO
  * -crear funcion que tome la ubicacion del cliente
- * si no esta disponible, colocar una ubicacion aleatoria
+ *  si no esta disponible, colocar una ubicacion aleatoria
  * 
  * -implementar autocompletado predictivo de ciudades
  * 
  * -implementar ligth/dark mode
+ * 
+ * -crear funcion que cambie el fondo de la tarjeta 
+ *  segun el clima
  */ 
 
 
