@@ -1,0 +1,39 @@
+*{
+    font-family: Lato, sans-serif;
+
+}
+
+:root{
+    font-size:18px;
+    --text-color: #F3F6F5;
+    --bg-color: #2C2C2C
+}
+
+body {
+
+    background-color: var(--bg-color);
+    font-family: lato, sans-serif;
+    color: var(--text-color);
+
+}
+
+
+
+a {
+    color: var(--text-color);
+}
+
+
+p {
+    margin-bottom: 0.75rem;
+    line-height: 1.2rem;
+}
+
+footer {
+    position: fixed;
+    bottom:0;
+    padding: 15px;
+    border-top: 1px solid grey;
+    width: 100%;
+    text-align: center;
+}
